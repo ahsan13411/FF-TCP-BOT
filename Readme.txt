@@ -103,5 +103,5 @@ To host this bot 24/7 online, you can use these platforms:
 ---
 
 <div align="center">
-  <p>Made with ❤️ by AH4 Team</p>
+  <p>Made with  by AH4 Team</p>
 </div>
