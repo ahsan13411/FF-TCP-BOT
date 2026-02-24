@@ -15,13 +15,15 @@
 </pre>
 
 
+</div>
 
-### [ AH4 TC | OB52 TCP BOT v1.0 ]
+
+### [ AH4 TC | SMS RELAY INFRASTRUCTURE v1.0 ]
 
 **"Our democracy has been hacked. Our privacy has been compromised. The system is broken. We are here to show you how."**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-red?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Operational-red?style=for-the-badge)](https://github.com/ahsan13411/FF-TCP-BOT)
+[![Status](https://img.shields.io/badge/Status-Operational-red?style=for-the-badge)](https://github.com/ahsan13411/AH4-SMS-boomer)
 [![Team](https://img.shields.io/badge/Team-AH4%20Team-red?style=for-the-badge)](https://github.com/ahsan13411)
 
 </div>
@@ -35,73 +37,69 @@
 
 ## 👤 Credits & Intelligence
 - **Lead Operator:** [AHSAN](https://github.com/ahsan13411)
-- **Central Intelligence:** [AH4 Team](https://github.com/ahsan13411)
+- **Central Intelligence:** [AH4 Team](https://github.com/ahsan13411/AH4-SMS-boomer)
 - **Sector:** **Network Infiltration & Protocol Research**
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 Advanced Infiltration Capabilities
 
-### 💻 VS Code (Windows/Linux/Mac)
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/ahsan13411/FF-TCP-BOT.git
-   cd FF-TCP-BOT
-   ```
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Configure Accounts:**
-   Edit `accounts.json` and add your account UIDs and keys.
-4. **Run the Bot:**
-   ```bash
-   python main.py
-   ```
-
-### 📱 Termux (Android)
-1. **Update & Upgrade:**
-   ```bash
-   apt update && apt upgrade -y
-   ```
-2. **Install Python & Git:**
-   ```bash
-   pkg install python git -y
-   ```
-3. **Clone & Setup:**
-   ```bash
-   git clone https://github.com/ahsan13411/FF-TCP-BOT.git
-   cd FF-TCP-BOT
-   pip install -r requirements.txt
-   ```
-4. **Run:**
-   ```bash
-   python main.py
-   ```
+- **35+ API Node Relays:** Exploiting vulnerabilities in BTCL, Grameenphone, and diverse healthcare/e-commerce gateways.
+- **Dynamic Protocol Execution:**
+  - **👻 GHOST MODE:** Stealthy, sequential packet delivery designed to bypass basic firewall detection.
+  - **🌪️ CHAOS FLOOD:** Advanced asynchronous wave injection with **Micro-Jitter** and **Task Shuffling** for maximum WAF confusion.
+- **📡 Auto-Scrape Harvest:** Integrated global proxy harvester fetching thousands of fresh SOCKS4, SOCKS5, and HTTP IPs in real-time.
+- **🔍 Node Telemetry:** Automatically extracts carrier metadata, geographical region, and timezone of the target node.
+- **📱 Device Spoofing Engine:** Rotates through a pool of 500+ unique User-Agents and spoofed IP headers (X-Forwarded-For).
+- **🛡️ Resilience Protocols:** Self-healing core that automatically restarts on socket failures and handles SIGINT/SIGTSTP signals.
 
 ---
 
-## ☁️ Python Hosting (Web)
-To host this bot 24/7 online, you can use these platforms:
+## 🛠️ Deployment Instructions
 
-- **[PythonAnywhere](https://www.pythonanywhere.com/):** Best for beginners, easy to set up.
-- **[Koyeb](https://www.koyeb.com/):** Free tier available, great for small scripts.
-- **[Render](https://render.com/):** Easy deployment from GitHub.
-- **[Replit](https://replit.com/):** Instant cloud IDE, but requires "Always On" for 24/7.
+### 📥 Protocol Initialization
+```bash
+# Clone the encrypted repository
+git clone https://github.com/ahsan13411/AH4-SMS-boomer.git
+cd AH4-SMS-boomer
 
----
+# Install sub-module dependencies
+pip install -r requirements.txt
+```
 
-## 🛠 Usage
-- **Start the bot:** Run `python main.py`.
-- **In-game Commands:**
-  - `/ms {message}` : Spam custom message.
-  - `/rio {uid}` : Doctor Strange emote.
-  - `/join teamcode` : Join team instantly.
-  - `/evo {1-18}` : Use specific evolution emotes.
-- **Note:** Use responsibly. Overusing certain commands may result in account suspension.
+### ⚡ System Execution
+```bash
+python AH4-sms-boomer.py
+```
 
 ---
 
+## 🎯 Operational Parameters
+1. **Selection:** Choose between **GHOST** (Stealth) or **CHAOS** (Flood) protocols.
+2. **Proxy Config:**
+   - **[1]** Direct IP (Expose Node)
+   - **[2]** Local Proxy (Load `proxies.txt`)
+   - **[3]** Global Harvest (Auto-fetch thousands of nodes)
+3. **Targeting:** Enter the target node's address (Phone number).
+4. **Impact:** Monitor the real-time breach statistics and infiltration logs.
+
+---
+
+## 🧬 Node Telemetry [System Info]
+The tool extracts and displays local machine vitals during initialization:
+- **Timestamp:** Network Time Protocol sync.
+- **Node ID:** Hostname and IP identifiers.
+- **Hardware:** MAC Address and CPU Architecture.
+- **Kernel:** Operating system and build version.
+
+---
+
+## 🚨 Protocol Recovery
+If the system experiences a handshake failure:
+- **SSL Issues:** `pip install --upgrade certifi urllib3`
+- **Socket Latency:** `pip install -U aiohttp async-timeout`
+
+---
 <div align="center">
-  <p>Made with  by AH4 Team</p>
+  <b>"FUCK SOCIETY."</b> 
 </div>
