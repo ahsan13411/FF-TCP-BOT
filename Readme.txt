@@ -26,15 +26,6 @@
 
 </div>
 
-
-**"Our democracy has been hacked. Our privacy has been compromised. The system is broken. We are here to show you how."**
-
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-red?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Operational-red?style=for-the-badge)](https://github.com/ahsan13411/AH4-SMS-boomer)
-[![Team](https://img.shields.io/badge/Team-AH4%20Team-red?style=for-the-badge)](https://github.com/ahsan13411)
-
-</div>
-
 ---
 
 ## 🎭 
@@ -62,13 +53,13 @@
 
 ---
 
-## 🛠️ Deployment Instructions
+## 🛠️ Deployment Instructions (Linux/Termux & window)
 
 ### 📥 Protocol Initialization
 ```bash
 # Clone the encrypted repository
-git clone https://github.com/ahsan13411/AH4-SMS-boomer.git
-cd AH4-SMS-boomer
+git clone https://github.com/ahsan13411/sms-realy-V1.git
+cd sms-realy-V1
 
 # Install sub-module dependencies
 pip install -r requirements.txt
@@ -76,7 +67,7 @@ pip install -r requirements.txt
 
 ### ⚡ System Execution
 ```bash
-python AH4-sms-boomer.py
+python sms-realy-V1.py
 ```
 
 ---
@@ -85,19 +76,10 @@ python AH4-sms-boomer.py
 1. **Selection:** Choose between **GHOST** (Stealth) or **CHAOS** (Flood) protocols.
 2. **Proxy Config:**
    - **[1]** Direct IP (Expose Node)
-   - **[2]** Local Proxy (Load `proxies.txt`)
+   - **[2]** Local Proxy (recommend)
    - **[3]** Global Harvest (Auto-fetch thousands of nodes)
 3. **Targeting:** Enter the target node's address (Phone number).
 4. **Impact:** Monitor the real-time breach statistics and infiltration logs.
-
----
-
-## 🧬 Node Telemetry [System Info]
-The tool extracts and displays local machine vitals during initialization:
-- **Timestamp:** Network Time Protocol sync.
-- **Node ID:** Hostname and IP identifiers.
-- **Hardware:** MAC Address and CPU Architecture.
-- **Kernel:** Operating system and build version.
 
 ---
 
